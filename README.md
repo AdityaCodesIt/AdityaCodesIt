@@ -1,3 +1,8 @@
+# 💫 Hi 👋, I'm Aditya Dwivedi
+**A passionate Full-Stack Developer || Data Science Enthusiast from India**
+
+Email Me 👉 ✉️ **77adityadwivedi77@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
 # 💫 About Me:
 🔭 I’m currently working on a Full-Stack Reddit Clone using React, Node.js, Express, PostgreSQL & Prisma.<br><br>👯 I’m looking to collaborate on Full-Stack Web Development, Machine Learning, and Open Source projects.<br><br>🤝 I’m looking for help with System Design, Scalable Backend Development, and DevOps.<br><br>🌱 I’m currently learning Node.js, Express.js, PostgreSQL, Prisma ORM and Backend Architecture.<br><br>💬 Ask me about React, JavaScript, Python, Machine Learning, NLP, Recommendation Systems, Data Analysis, and Full-Stack Development.<br><br>⚡ Fun fact: I love turning ambitious ideas into real-world projects—from AI-powered recommendation systems to disaster intelligence platforms and full-stack web apps.
 
