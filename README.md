@@ -1,4 +1,4 @@
-![logo](https://github.com/AdityaCodesIt/AdityaCodesIt/blob/main/banner1.png)
+![logo](https://github.com/AdityaCodesIt/AdityaCodesIt/blob/main/banner.png)
 # 💫 Hi 👋, I'm Aditya Dwivedi
 **A passionate Full-Stack Developer || Data Science Enthusiast from India**
 
